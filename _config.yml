@@ -1,4 +1,6 @@
 typography_spectrum: 0.9735092571936548
+content_rating:
+  adult: true
 color:
   brandStrength: 0.18438058882020414
   lightness: 0.49406288051977754
@@ -14,6 +16,6 @@ layout_spectrum: 0.22108042449690402
 author:
   name: cameron neale
   email: camneale@gmail.com
-  url: WWW.LENZMAG.COM
+  url: thegrid.ai/cam
 name: 'cam '
 title: urbanfroth
