@@ -1,0 +1,14 @@
+layout_spectrum: 0.22108042449690402
+typography_spectrum: 0.9735092571936548
+color:
+  brandStrength: 0.18438058882020414
+  lightness: 0.49406288051977754
+  saturation: 0.7555078566074371
+  rhythmicContrast: 0.6776674496941268
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: 'cam '
