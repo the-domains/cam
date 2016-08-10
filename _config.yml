@@ -1,18 +1,18 @@
-typography_spectrum: 0.9735092571936548
+typography_spectrum: 0.5842580406460911
 content_rating:
   adult: true
 color:
-  brandStrength: 0.18438058882020414
-  lightness: 0.49406288051977754
-  saturation: 0.7555078566074371
-  rhythmicContrast: 0.6776674496941268
+  brandStrength: 0.07686813408508897
+  lightness: 0.919865510892123
+  saturation: 0.11208150023594499
+  rhythmicContrast: 0.9798581486102194
   brandColors:
     - '#000000'
-    - '#263248'
-    - '#7E8AA2'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
     - '#FFFFFF'
-    - '#FF9800'
-layout_spectrum: 0.22108042449690402
+layout_spectrum: 0.5874436164740473
 author:
   name: cameron neale
   email: camneale@gmail.com
