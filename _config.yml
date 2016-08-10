@@ -1,21 +1,21 @@
-typography_spectrum: 0.6582480641081929
+typography_spectrum: 0.9735092571936548
 content_rating:
   adult: true
 color:
-  brandStrength: 0.9842912380117923
-  lightness: 0.8116448356304318
-  saturation: 0.9641834264621139
-  rhythmicContrast: 0.2509982008486986
+  brandStrength: 0.18438058882020414
+  lightness: 0.49406288051977754
+  saturation: 0.7555078566074371
+  rhythmicContrast: 0.6776674496941268
   brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
     - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.11528074648231268
+    - '#FF9800'
+layout_spectrum: 0.22108042449690402
 author:
   name: cameron neale
   email: camneale@gmail.com
   url: thegrid.ai/cam
-name: 'cam '
-title: urbanfroth
+name: shutter
+title: frothingyouth
