@@ -1,21 +1,23 @@
-typography_spectrum: 0.295314579969272
+typography_spectrum: 0.9735092571936548
 content_rating:
   adult: true
 color:
-  brandStrength: 0.47836002125404775
-  lightness: 0.6916900619398803
-  saturation: 0.13836867571808398
-  rhythmicContrast: 0.9418792992364615
+  brandStrength: 0.18438058882020414
+  lightness: 0.49406288051977754
+  saturation: 0.7555078566074371
+  rhythmicContrast: 0.6776674496941268
   brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
     - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.578095889184624
+    - '#FF9800'
+layout_spectrum: 0.22108042449690402
 author:
   name: cameron neale
   email: camneale@gmail.com
   url: thegrid.ai/cam
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/05319ad8-5071-4744-86fe-749c6880650b.jpg
 name: shutter
 title: frothingyouth
