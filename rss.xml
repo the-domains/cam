@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[frothingyouth]]></title>
         <description><![CDATA[frothingyouth]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cam/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 02:09:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Aug 2016 06:27:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cam/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4938a78-d016-4cce-b529-1faec0b0b09b.jpg">]]></description>
-            <link>undefinedb2ec2f7b-3628-497e-b002-6f58b328eb85/index.html</link>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/813fd85e0fc8936d8ec09b34d95b8806/croprotate.jpg?cropheight=2831&cropwidth=4256&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb4938a78-d016-4cce-b529-1faec0b0b09b.jpg&x=0&y=0" alt="Snapper Rocks where the surfing youth Froth big time ">]]></description>
+            <link>https://thegrid.ai/cam/b2ec2f7b-3628-497e-b002-6f58b328eb85/index.html</link>
             <guid isPermaLink="false">b2ec2f7b-3628-497e-b002-6f58b328eb85</guid>
-            <pubDate>Wed, 10 Aug 2016 02:09:15 GMT</pubDate>
+            <pubDate>Sat, 13 Aug 2016 06:27:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
